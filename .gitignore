@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Folders
+/info
+
+# Data files
+*.dat
+
+# Output gifs
+*.gif
